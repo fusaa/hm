@@ -1,6 +1,6 @@
 # Summary
 
-I did this ETL(Extraction, Transform, Load) while learning. It scraps the American version of the H&M website jeans department. I started using Beautifull Soup initially; however, the website had dynamic content that relied on user behaviour to display information. So I had to change in the middle of the progress to Selenium.
+I did this ETL(Extraction, Transform, Load) while learning. It scraps the American version of the H&M website jeans department. I started using Beautiful Soup initially; however, the website had dynamic content that relied on user behaviour to display information. So I had to change in the middle of the progress to Selenium.
 
 I divided the project into three parts:
 
